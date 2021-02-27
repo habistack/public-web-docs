@@ -22,7 +22,7 @@ In this tutorial, we will be taking a generic ESP32 board, connecting a simple e
 - A Micro-USB cable to connect the ESP32 to your computer
 - [SparkFun Environmental Combo Breakout - CCS811/BME280](https://www.sparkfun.com/products/14348) (Again, you may choose to use a more generic version of this sensor, but it won't use the Qwiic system)
 - [Arduino IDE](https://www.arduino.cc/en/software) installed on your computer
-- A [Fathym IoT Ensemble](https://www.iot-ensemble.com/dashboard) account (we’re using the free, shared version)
+- A [Fathym IoT Ensemble](https://www.habistack.com/dashboard) account (we’re using the free, shared version)
 
 ## Part 1 - Hook Up Your Hardware 
 First, we need to attach the sensor to your board. Take the qwiic cable, and plug it into the ESP32 "Qwiic" port. Take the other end of the cable, and plug it into either of the two "Qwiic" ports on the Environmental Sensor. Your hardware is ready to go! <br></br>
@@ -320,7 +320,7 @@ Before we can tell your device where to send data, we first need somewhere to se
 
 Follow these steps to create a new device in IoT Ensemble. For more details on the full IoT Ensemble experience, check out our [full documentation](../getting-started/connecting-first-device).
 
-Start by navigating to the [IoT Ensemble Dashboard](https://www.iot-ensemble.com/dashboard) and sign in or sign up.  For the purposes of moving forward, you will only need the Free license and no credit card will be required.
+Start by navigating to the [IoT Ensemble Dashboard](https://www.habistack.com/dashboard) and sign in or sign up.  For the purposes of moving forward, you will only need the Free license and no credit card will be required.
 
 ### Enroll a Device
 
@@ -370,7 +370,7 @@ Your ESP32 should now be taking sensor readings, and sending the information up 
 
 ![Serial Monitor](/img/screenshots/serial-monitor.png)
 
-Once you confirm that messages are sending correctly, you can now go to [IoT Ensemble](https://www.iot-ensemble.com/dashboard/) and see your messages in real time. Messages will appear under the "Device Telemetry" section, as shown below:
+Once you confirm that messages are sending correctly, you can now go to [IoT Ensemble](https://www.habistack.com/dashboard/) and see your messages in real time. Messages will appear under the "Device Telemetry" section, as shown below:
 
 ![Iot Ensemble ESP32 Telemetry](/img/screenshots/live-esp32-data.png)
 

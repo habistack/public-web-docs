@@ -15,9 +15,9 @@ hide_table_of_contents: true
 
 Fathym IoT Ensemble is a platform focused on helping you to connect devices, understand data and scale IoT applications.
 
-Managing the learning path, usage and growth of cloud-native IoT development strategies can be a daunting challenge. Use IoT Ensemble to reliably deliver IoT applications across hybrid-clouds. [Get started](https://www.iot-ensemble.com/dashboard) today.
+Managing the learning path, usage and growth of cloud-native IoT development strategies can be a daunting challenge. Use IoT Ensemble to reliably deliver IoT applications across hybrid-clouds. [Get started](https://www.habistack.com/dashboard) today.
 
-![IoT Ensemble Diagram](/img/iot-ensemble-diagram.png)
+![IoT Ensemble Diagram](/img/habistack-diagram.png)
 
 ## Connect, Understand, Scale
 
@@ -25,4 +25,4 @@ When getting started with a new cloud-native IoT solution, you’re not only wor
 
 IoT Ensemble operates as a virtual development team that automates best practices for IoT application delivery.  In order to help you focus on building applications and creating value, we built the platform to augment your team’s skills and do the heavy lifting.
 
-[Using the platform](https://www.iot-ensemble.com/dashboard) radically reduces the time and work involved in getting devices connected, understanding their data, and delivering end-to-end customer driven IoT applications.
+[Using the platform](https://www.habistack.com/dashboard) radically reduces the time and work involved in getting devices connected, understanding their data, and delivering end-to-end customer driven IoT applications.
