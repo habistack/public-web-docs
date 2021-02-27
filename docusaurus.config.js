@@ -90,7 +90,7 @@ module.exports = {
             //},
             {
               label: 'Twitter',
-              href: 'https://twitter.com/iotensemble',
+              href: 'https://twitter.com/habistack',
             },
           ],
         },
