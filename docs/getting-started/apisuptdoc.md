@@ -1,5 +1,5 @@
 ---
-title: API Support Documentation - API Support
+title: Getting Started - API Support
 hide_title: true
 sidebar_label: API Support
 keywords:
@@ -263,14 +263,12 @@ Then, ./tile-0-0-0.png is:
 
 ![API Tile 0](/img/screenshots/API-tile0.png)
 
-insert image here: API-tile0.png
-
 At zoom-level `1`, there are four tiles:
 
-insert image here: API-zoom1-1.png
-insert image here: API-zoom1-2.png
-insert image here: API-zoom1-3.png
-insert image here: API-zoom1-4.png
+![API Tile 1](/img/screenshots/API-zoom1-1.png)
+![API Tile 2](/img/screenshots/API-zoom1-2.png)
+![API Tile 3](/img/screenshots/API-zoom1-3.png)
+![API Tile 4](/img/screenshots/API-zoom1-4.png)
 
 And so on, up to the resolution of available forecast data (approximately zoom level 6 over the continental US and zoom level 3 everywhere else).
 

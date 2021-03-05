@@ -1,14 +1,15 @@
 ---
-title: API Support Documentation - API Support
+title: Getting Started - Licenses
 hide_title: true
-sidebar_label: API Support
+sidebar_label: Licenses
 keywords:
     - weather
     - road weather
     - ground weather forecast
     - weather intelligence
     - weather apis
-    - license
+    - weather API license
+    - weather API pricing
 hide_table_of_contents: true
 ---
 

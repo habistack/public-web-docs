@@ -6,7 +6,10 @@ module.exports = {
       ],
     'Getting Started': [
       'getting-started/setup',
-      'api supt doc/apisuptdoc'
+      'getting-started/apisuptdoc',
+      'getting-started/guide',
+      'getting-started/licenses',
+      'getting-started/pricingfaq'
     ],
   }
 };

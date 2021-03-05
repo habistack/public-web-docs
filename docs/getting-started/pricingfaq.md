@@ -1,14 +1,15 @@
 ---
-title: API Support Documentation - API Support
+title: Getting Started - Pricing FAQ
 hide_title: true
-sidebar_label: API Support
+sidebar_label: Pricing FAQ
 keywords:
     - weather
     - road weather
     - ground weather forecast
     - weather intelligence
     - weather apis
-    - license
+    - weather API license
+    - weather API pricing
 hide_table_of_contents: true
 ---
 
@@ -28,7 +29,7 @@ Yes, just select your preferred plan in your billing page.
 
 **ARE THERE ANY ADDITIONAL CHARGES?**
 
-No, although if you want custom enterprise packages or custom machine learning data variables, contact us.
+No, although if you want custom enterprise packages or custom machine learning data variables, contact our Sales team <a href="mailto:sales@fathym.com">sales@fathym.com</a>.
 
 **WHAT SUPPORT DOES FATHYM OFFER?**
 
@@ -59,7 +60,7 @@ Fathym offers the following custom data variables:
 With a license to the Fathym Low Code Framework, you can access the Fathym Forecaster Low-Code Unit and a suite of tools to help you visualize custom solutions.
 
 -- Fathym Forecast Module: a visual interface to determine the weather and surface condition forecast along primary and secondary routes. This module calls the Fathym Forecast API.
-For an example of how you can visualize weather data, please check out https://www.fathym-it.com/forecast/. 
+For an example of how you can visualize weather data, please check out https://www.proadject.com/.
 
 That data application was built using Fathym’s low-code framework. Fathym has made some of these resources open source for your use. Check out the GitHub repository at https://github.com/habistack/lcu-fathym-forecast. 
 

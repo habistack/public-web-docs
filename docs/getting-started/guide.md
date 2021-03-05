@@ -1,5 +1,5 @@
 ---
-title: Evaluation Guide - Evaluation Guide
+title: Getting Started - Evaluation Guide
 hide_title: true
 sidebar_label: Evaluation Guide
 keywords:
@@ -99,19 +99,22 @@ Fathym’s road-specific variables are carefully and continuously validated usin
 weather stations.
 
 Fathym validates overall forecast accuracy by cross-checking 60,000 points every hour as observed by worldwide
-weather stations (1,000 stations, 15 hours of forecasts, 4 times per
-hour).
+weather stations (1,000 stations, 15 hours of forecasts, 4 times per hour).
 
 Fathym validates road temperature forecast accuracy by cross-checking 5,000 points per day against stations with infrared
 cameras pointed at roads in various geographies.
 
-Fathym has done studies comparing road state conditions to human-labeled Department of Transportation webcam images, establishing a
-greater than 90% accuracy of forecasting surface conditions.
+Fathym has done studies comparing road state conditions to human-labeled Department of Transportation webcam images, establishing a greater than 90% accuracy of forecasting surface conditions.
 
 The net effect of all this validation over time will be to train the machine learning model, aiding in increasing accuracy and granularity of data, which will yield continual improvements.
 
+**Please read our 2019 verification study:**
+https://blog.fathym.com/hubfs/DataVerification-08122019.pdf
+
+
 ## Is documentation available?
-Yes, the API is fully documented. You can find documentation here: https://support.fathym.com/docs/fathym-forecast-api
+Yes, the API is fully documented. You can find documentation here: 
+https://www.habistack.com/docs/getting-started/apisuptdoc
 
 ## Is support available?
 Yes, customers can contact support staff who will respond within hours on weekdays. Email us at support@fathym.com.
