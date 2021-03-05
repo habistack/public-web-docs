@@ -6,10 +6,10 @@ module.exports = {
       ],
     'Getting Started': [
       'getting-started/setup',
-      'getting-started/apisuptdoc',
+      'getting-started/weather-forecast-support',
       'getting-started/guide',
       'getting-started/licenses',
-      'getting-started/pricingfaq'
+      'getting-started/pricing-faq'
     ],
   }
 };
