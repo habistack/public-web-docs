@@ -31,6 +31,12 @@ module.exports = {
           target: '_top',
         },
         {
+          href: 'https://www.habistack.com/dashboard',
+          label: 'Sign Up',
+          position: 'left',
+          target: '_top',
+        },
+        {
           href: 'https://www.habistack.com/pricing',
           label: 'Pricing',
           position: 'right',
