@@ -13,10 +13,9 @@ keywords:
 hide_table_of_contents: true
 ---
 
+# Fathym Habistack Forecast API Licenses
 
-# Fathym Forecaster API Licenses
-
-### **The Forecaster API includes access to:**
+### **The Habistack API includes access to:**
 
 - Point and Multiple Point Forecasts
 - Route and Alternative Route Forecasts
@@ -61,7 +60,7 @@ $99/month or $990/year
 $499/month or $4,990/year
 
 - Unlimited API calls
-- **Up to 1 billion** point queries per month
+- **Up to 100 million** point queries per month
 
 
 
