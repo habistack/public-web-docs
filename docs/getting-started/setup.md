@@ -22,5 +22,5 @@ To kick things off, visit the [Habistack](https://www.habistack.com/dashboard) s
 ## Habistack Dashboard
 
 Once signed in, the Habistack Dashboard will load with a Free License.  A one stop, cloud-native weather forecast starting point, the dashboard is a control system for accessing the API, understanding data and connecting with downstream services.
-<!-- 
-![Dashboard New](/img/screenshots/dashboard-new.png) -->
+
+![Dashboard New](/img/screenshots/dashboard-new.png)
