@@ -36,7 +36,7 @@ Below is an example using curl to fetch the list of forecast variables. The list
 ```console
 curl -X 'GET' \
   'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/api-variables' \
-  -H 'lcu-subscription-key: {subscription key}’
+  -H 'lcu-subscription-key: {subscription key}'
 ```
 
 #### Response Body
@@ -428,7 +428,7 @@ Below is an example of forecasting temperature, precipitation, and road state in
 
 curl -X 'POST' \
   'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/point-query' \
-  -H 'lcu-subscription-key: {subscription key}’\
+  -H 'lcu-subscription-key: {subscription key}'\
   -d '{
   "variables": [
     {
@@ -505,7 +505,7 @@ The Habistack API delivers maptile imagery based on forecasted data. These image
 
 curl -X 'GET' \
   'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/maptile-manifest' \
-  -H 'lcu-subscription-key: {subscription key}’
+  -H 'lcu-subscription-key: {subscription key}'
 
 ```
 
