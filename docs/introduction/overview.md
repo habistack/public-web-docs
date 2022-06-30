@@ -16,5 +16,5 @@ hide_table_of_contents: true
 
 Fathym Habistack is a platform that combines the world’s best weather forecasts with statistics-based, machine-learning techniques to tackle the largest datasets, including road weather.
 
-Managing the learning path, usage and growth of cloud-native environmental development strategies can be a daunting challenge. Use Habistack to reliably deliver road weather applications across hybrid-clouds. [Get started](https://www.habistack.com/dashboard) today.
+Managing the learning path, usage and growth of cloud-native environmental development strategies can be a daunting challenge. Use Habistack to reliably deliver road weather applications across hybrid-clouds. [Get started](https://www.fathym.com/dashboard/forecast) today.
 

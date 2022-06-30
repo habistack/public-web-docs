@@ -35,7 +35,7 @@ Below is an example using curl to fetch the list of forecast variables. The list
 #### Curl Command
 ```console
 curl -X 'GET' \
-  'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/api-variables' \
+  'https://fathym-cloud-prd.azure-api.net/habistack/weather/ground/api/v0/api-variables' \
   -H 'lcu-subscription-key: {subscription key}'
 ```
 
@@ -427,7 +427,7 @@ Below is an example of forecasting temperature, precipitation, and road state in
 ```console
 
 curl -X 'POST' \
-  'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/point-query' \
+  'https://fathym-cloud-prd.azure-api.net/habistack/weather/ground/api/v0/point-query' \
   -H 'lcu-subscription-key: {subscription key}'\
   -d '{
   "variables": [
@@ -504,7 +504,7 @@ The Habistack API delivers maptile imagery based on forecasted data. These image
 ```console
 
 curl -X 'GET' \
-  'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/maptile-manifest' \
+  'https://fathym-cloud-prd.azure-api.net/habistack/weather/ground/api/v0/maptile-manifest' \
   -H 'lcu-subscription-key: {subscription key}'
 
 ```
@@ -712,7 +712,7 @@ Note the parameters "Temperature_2Meters" and 1629419400 come from the maptilema
 
 ```console
 curl -X 'GET' \
-  'https://fathym-prd.azure-api.net/habistack/weather/ground/api/v0/maptile-fetch/Temperature_2Meters/1629419400/0/0/0' \
+  'https://fathym-cloud-prd.azure-api.net/habistack/weather/ground/api/v0/maptile-fetch/Temperature_2Meters/1629419400/0/0/0' \
   -H 'lcu-subscription-key: {subscription key}'
 ```
 
