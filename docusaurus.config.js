@@ -25,7 +25,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://www.fathym.com/forecast',
+          to: 'https://www.fathym.com/forecast',
           label: 'Home',
           position: 'left',
           target: '_top',
