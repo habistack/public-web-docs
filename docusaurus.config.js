@@ -54,7 +54,7 @@ module.exports = {
         //  target: '_top',
         //},
         {
-          href: 'https://www.fathym.com/dashboard/forecast',
+          to: 'https://www.fathym.com/dashboard/forecast',
           label: 'Sign In',
           position: 'right',
           target: '_top',
@@ -88,7 +88,7 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/habistack',
+              to: 'https://stackoverflow.com/questions/tagged/habistack',
             },
             //{
             //  label: 'Discord',
@@ -96,7 +96,7 @@ module.exports = {
             //},
             {
               label: 'Twitter',
-              href: 'https://twitter.com/habistack',
+              to: 'https://twitter.com/habistack',
             },
           ],
         },
@@ -105,7 +105,7 @@ module.exports = {
           items: [
             {
               label: 'Learn More',
-              href: 'https://www.fathym.com',
+              to: 'https://www.fathym.com',
             },
           ],
         },
