@@ -150,7 +150,7 @@ https://blog.fathym.com/hubfs/DataVerification-08122019.pdf
 
 ## Is documentation available?
 Yes, the API is fully documented. You can find documentation here: 
-https://www.habistack.com/docs/getting-started/apisuptdoc
+https://www.fathym.com/forecast/docs/getting-started/weather-forecast-support
 
 ## Is support available?
 Yes, customers can contact support staff who will respond within hours on weekdays. Email us at support@fathym.com.
