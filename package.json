@@ -19,6 +19,7 @@
     "@mdx-js/react": "^1.5.8",
     "chokidar": "^3.5.3",
     "clsx": "^1.1.1",
+    "docusaurus-plugin-image-zoom": "^0.1.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
