@@ -13,7 +13,7 @@ keywords:
 hide_table_of_contents: true
 ---
 
-# Fathym Forecaster Pricing FAQ
+# Fathym Habistack Forecast API Pricing FAQ
 
 **CAN I PAY MONTHLY?**
 
@@ -33,7 +33,7 @@ No, although if you want custom enterprise packages or custom machine learning d
 
 **WHAT SUPPORT DOES FATHYM OFFER?**
 
-Fathym offers extensive documentation to guide users through the Fathym Forecaster. Customers can also contact support staff who will respond within 24 hours on weekdays.
+Fathym offers extensive documentation to guide users through the Habistack API. Customers can also contact support staff who will respond within 24 hours on weekdays.
 
 **WHAT DO WE MEAN BY API CALL?**
 
@@ -57,9 +57,10 @@ Fathym offers the following custom data variables:
 
 **DOES FATHYM HAVE A WAY TO VISUALIZE THE WEATHER DATA?**
 
-With a license to the Fathym Low Code Framework, you can access the Fathym Forecaster Low-Code Unit and a suite of tools to help you visualize custom solutions.
+With a license to the Fathym Low Code Framework, you can access the Fathym Habistack Low-Code Unit and a suite of tools to help you visualize custom solutions.
 
--- Fathym Forecast Module: a visual interface to determine the weather and surface condition forecast along primary and secondary routes. This module calls the Fathym Forecast API.
+-- Fathym Forecast Module: a visual interface to determine the weather and surface condition forecast along primary and secondary routes. This module calls the Fathym Habistack Forecast API.
+
 For an example of how you can visualize weather data, please check out https://www.proadject.com/.
 
 That data application was built using Fathym’s low-code framework. Fathym has made some of these resources open source for your use. Check out the GitHub repository at https://github.com/habistack/lcu-fathym-forecast. 
