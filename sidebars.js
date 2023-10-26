@@ -9,7 +9,7 @@ module.exports = {
       'getting-started/weather-forecast-support',
       'getting-started/guide',
       'getting-started/licenses',
-      'getting-started/pricing-faq'
+      //'getting-started/pricing-faq'
     ],
   }
 };
