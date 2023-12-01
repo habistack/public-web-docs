@@ -27,7 +27,7 @@ This document includes the following topics:
 ## Sample API Interactions
 In each of these examples, the {subscription key} is the one provided by the Azure API Management system.  You will see this key (both primary and secondary) on the Habistack Dashboard in the Forecast Access section.
 
-![Dashboard New](/img/screenshots/dashboard-new.png)
+![Habistack Dashboard](https://www.fathym.com/img/screenshots/habistack_dashboard.png)
 
 ## Request a List of Available Variables
 Below is an example using curl to fetch the list of forecast variables. The list of variables is long and growing.

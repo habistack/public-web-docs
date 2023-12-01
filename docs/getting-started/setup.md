@@ -23,4 +23,4 @@ To kick things off, visit the [Habistack](https://www.fathym.com/dashboard/forec
 
 Once signed in, the Habistack Dashboard will load with a Free License.  A one stop, cloud-native weather forecast starting point, the dashboard is a control system for accessing the API, understanding data and connecting with downstream services.
 
-![Dashboard New](/img/screenshots/dashboard-new.png)
+![Habistack Dashboard](https://www.fathym.com/img/screenshots/habistack_dashboard.png)
