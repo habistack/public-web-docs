@@ -99,4 +99,4 @@ And under /forecast is a route forecast demo application fed by Habistack APIs. 
 
 ![Proadject Forecast Demo](https://www.fathym.com/iot/img/screenshots/proadject_forecast_demo.png)
 
-In this application, you can easily specify a route through an origin, destination and start time; assess ML-derived forecast variables along the route for road temperature, road state, potential delay risk, crosswind risk, precipitation rate, snow depth and wind speed. And apply map layers for radar reflectivity, cloud cover, precipitation, temperature, visibility and wind.
+In this application, you can easily specify a route through an origin, destination and start time; assess ML-derived forecast variables along the route for road temperature, road state, potential delay risk, crosswind risk, precipitation rate, snow depth and wind speed; and apply map layers for radar reflectivity, cloud cover, precipitation, temperature, visibility and wind.
