@@ -12,7 +12,7 @@ keywords:
 hide_table_of_contents: true
 ---
 
-# Welcome to Fathym Habistack
+# Introducing Habistack
 
 Habistack is the most flexible, cloud-native forecast engine and API for delivering machine learning and statistics-based forecasts with any combination of variables.
 
